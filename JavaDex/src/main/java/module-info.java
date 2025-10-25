@@ -1,4 +1,4 @@
-module javadex.javadex {
+module javadex {
     requires javafx.controls;
-    exports javadex.javadex;
+    exports javadex;
 }
